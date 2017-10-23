@@ -57,3 +57,10 @@ Este reto sera evaluado sobre lo siguiente:
 - Estructura de tus archivos
 - Archivo `README.md` actualizado y correctamente redactado
 - Uso de comentarios para hacer tu código más legible
+
+
+#Estoy realizando el maquetado de AppLove
+
+- Primero Clone el repositorio, para ver las modificaciones que debo realizar y tener las imagenes para poder avanzar.
+- Ahora estoy en el proceso de colocar los nombres de las clases en el archivo html para que lo reconozca la hoja de estilo.
+- Luego agregar en el menú los enlaces 
